@@ -93,6 +93,7 @@ model_cards = {
   "deepseek-v3-3bit": { "layers": 61, "repo": { "MLXDynamicShardInferenceEngine": "mlx-community/DeepSeek-V3-3bit", }, },
   "deepseek-r1": { "layers": 61, "repo": { "MLXDynamicShardInferenceEngine": "mlx-community/DeepSeek-R1-4bit", }, },
   "deepseek-r1-3bit": { "layers": 61, "repo": { "MLXDynamicShardInferenceEngine": "mlx-community/DeepSeek-R1-3bit", }, },
+  "deepseek-r1-1776": { "layers": 61, "repo": { "MLXDynamicShardInferenceEngine": "mlx-community/perplexity-ai-r1-1776-4bit", }, },
   ### deepseek distills
   "deepseek-r1-distill-qwen-1.5b": { "layers": 28, "repo": { "MLXDynamicShardInferenceEngine": "mlx-community/deepseek-r1-distill-qwen-1.5b", }, },
   "deepseek-r1-distill-qwen-1.5b-3bit": { "layers": 28, "repo": { "MLXDynamicShardInferenceEngine": "mlx-community/DeepSeek-R1-Distill-Qwen-1.5B-3bit", }, },
@@ -180,6 +181,7 @@ pretty_name = {
   "deepseek-v3-3bit": "Deepseek V3 (3-bit)",
   "deepseek-r1": "Deepseek R1 (4-bit)",
   "deepseek-r1-3bit": "Deepseek R1 (3-bit)",
+  "deepseek-r1-1776": "Deepseek R1 1776 (4-bit)",
   "llava-1.5-7b-hf": "LLaVa 1.5 7B (Vision Model)",
   "qwen-2.5-0.5b": "Qwen 2.5 0.5B",
   "qwen-2.5-1.5b": "Qwen 2.5 1.5B",
